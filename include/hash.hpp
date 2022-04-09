@@ -23,7 +23,6 @@ void SetUpLogging();
 
 class JsonFiler {
  public:
-
   void NewElement(const std::string& randString, const std::string& hash,
                   std::time_t timestamp);
 
