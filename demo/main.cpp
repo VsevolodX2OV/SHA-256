@@ -1,4 +1,4 @@
-// Copyright by Enigma
+//Copyright 2021 by Winter Solider
 
 #include "picosha2.h"
 #include "hash.hpp"
